@@ -22,10 +22,13 @@ To display icons in *Button*, *Label* and *Link* controls, the [Icons Module](ht
 
 1. Drag the Global Script called "Icons" into the Page.Load event handler
 2. Leave the input parameter blank (this parameter is only used by other scripts)
-3. Drag a *Label*, *Button*, *Link* or *Container* control into the page
-4. Add the class 'stadium-icon' to the control classes property
-5. Find a symbol you wish to display: see [finding and icon](https://github.com/stadium-software/icons?tab=readme-ov-file#finding-an-icon)
-6. Paste the name of the symbol into the control classes property (e.g. 'material-symbols:wifi-sharp' or 'material-symbols:undo')
+
+## Page Setup
+
+1. Drag a *Label*, *Button*, *Link* or *Container* control into the page
+2. Add the class 'stadium-icon' to the control classes property
+3. Find a symbol you wish to display: see [finding and icon](https://github.com/stadium-software/icons?tab=readme-ov-file#finding-an-icon)
+4. Paste the name of the symbol into the control classes property (e.g. 'material-symbols:wifi-sharp' or 'material-symbols:undo')
 
 ![](images/icon-symbol.png)
 
