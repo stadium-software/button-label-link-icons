@@ -1,6 +1,6 @@
-# Button, Label and Link Icons
+# Icons with the Iconify library
 
-A repo to show how to display icons in *Button*, *Label* and *Link* controls
+Displaying icons in *Button*, *Label* and *Link* controls using the iconify library
 
 ## Examples
 ![](images/icons.png)
